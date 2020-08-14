@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RHLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RHLibrary/out/artifacts/RHLibrary_jar/RHLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
